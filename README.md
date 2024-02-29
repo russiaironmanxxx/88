@@ -4,7 +4,7 @@
 using namespace SDT;
 
 int main() {
-  cout << "Hello, C++!" << endl;
+  cout << "Hello, C++!" << END;
   return 0;
 }
 
