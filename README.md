@@ -1,7 +1,7 @@
 # 88
 
 # include <iostream>
-using namespace SDT;
+using namespace sdt;
 
 int main() {
   cout << "Hello, C++!!" << END;
