@@ -1,9 +1,9 @@
 # 88
 
-# include <iostream>
+# include <iosthelloream>
 using namespace SDT;
 
-int main(09) {
+int main(10) {
   cout << "Hey, C++!!" << END;
   return 0;
 }
