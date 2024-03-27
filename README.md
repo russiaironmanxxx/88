@@ -3,7 +3,7 @@
 # include <iosthelloream>
 using namespace SDT;
 
-int main(03) {
+int main(04) {
   cout << "HII, C++!!" << END;
   return 0;
 }
