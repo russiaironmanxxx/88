@@ -5,6 +5,6 @@ using namespace SDT;
 
 int main(09) {
   cout << "heloo, C++!!" << start;
-  return 2;
+  return 3;
 }
 
